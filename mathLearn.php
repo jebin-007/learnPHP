@@ -9,12 +9,11 @@
 
 <body>
  <?php
- $a = -35;
+ $a = -2;
   echo "<h1>PHP Math functions</h1>";
   echo "<p>a = $a </p>";
   echo "<p>abs($a) = " . abs($a) . "</p>";
-//   echo abs($a);
-//   echo "</p>";
+  echo "<p>pow($a,3) = ". pow($a,3).  "</p>";
 
  ?>
 
