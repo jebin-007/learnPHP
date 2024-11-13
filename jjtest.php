@@ -10,6 +10,7 @@
 
     echo("<h1>Jesus Christ is Lord </h1>");
     echo "This is one test";
+    echo "There is none like you";
 
     ?>
 </body>
