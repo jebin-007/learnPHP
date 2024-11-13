@@ -12,6 +12,7 @@
     echo "<h2>This is none like you</h2>";
     echo "<p>There is none like you</p>";
     echo "<p>None else can touch my heart like you do</p> ";
+    echo 'How much $ are you will to spend? $test';
 
     ?>
 </body>

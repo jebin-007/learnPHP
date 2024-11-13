@@ -8,6 +8,15 @@
 </head>
 
 <body>
+ <?php
+ $a = -35;
+  echo "<h1>PHP Math functions</h1>";
+  echo "<p>a = $a </p>";
+  echo "<p>abs($a) = " . abs($a) . "</p>";
+//   echo abs($a);
+//   echo "</p>";
+
+ ?>
 
 </body>
 
